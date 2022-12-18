@@ -6,6 +6,7 @@
 	> +					cell 3: add 1
 	<<< -				decrease counter to cell 0
 ]						end loop
+
 						print to standard out:
 > ++ .					putchar H (70 plus 2 = 72)
 > +++++ +++++ +.		putchar o (100 plus 11 = 111)
